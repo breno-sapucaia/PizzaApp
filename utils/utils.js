@@ -1,5 +1,5 @@
 export const FetchPizza = async () => {
-    let data = fetch('http://www.mocky.io/v2/5ecdaf3f3000007900ea0bd1')
+    let data = fetch('http://www.mocky.io/v2/5ecdde823000000f00ea0cb7')
     return (await data).json();
 }
 
