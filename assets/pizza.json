@@ -1,0 +1,23 @@
+{
+    "tradicional": {
+        "pizzas": [
+            {
+                "name": "Brócolis e Bacon",
+                "img": "tradicional_brocolis_bacon.png",
+                "sizes": [
+                    {
+                        "size": "Pequena",
+                        "price": 19.9,
+                        "slice": 4
+                    },{
+                        "size": "Média",
+                        "price": 29.9,
+                        "slice": 6
+                    }
+                ]
+            },{
+
+            }
+        ]
+    }
+}
